@@ -141,3 +141,7 @@ tests/            pytest suite
 - Swap TF-IDF for a neural embedding model and a vector database (Chroma, pgvector) behind the same interface.
 - Stream logs live (tail the file or receive syslog) and push alerts to Slack or email.
 - Add an anomaly-detection model (per-IP request-rate baseline) alongside the rules.
+
+## License
+
+[MIT](LICENSE)
